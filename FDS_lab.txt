@@ -1,0 +1,73 @@
+FUNDAMENTALS OF DATA SCIENCE LAB  (2344201)
+............................................
+1. Creating a NumPy Array
+• Basic ndarray
+• Array of zeros
+• Array of ones
+• Random numbers in ndarray
+• An array of your choice
+• Imatrix in NumPy
+• Evenly spaced ndarray
+
+2. The Shape and Reshaping of NumPy Array
+• Dimensions of NumPy array
+• Shape of NumPy array
+• Size of NumPy array
+• Reshaping a NumPy array
+• Flattening a NumPy array
+• Transpose of a NumPy array
+
+3. Expanding and Squeezing a NumPy Array
+• Expanding a NumPy array
+• Squeezing a NumPy array
+• Sorting in NumPy Arrays
+
+4. Indexing and Slicing of NumPy Array
+• Slicing 1-D NumPy arrays
+• Slicing 2-D NumPy arrays
+• Slicing 3-D NumPy arrays
+• Negative slicing of NumPy arrays
+
+5. Stacking and Concatenating Numpy Arrays
+• Stacking ndarrays
+• Concatenating ndarrays
+• Broadcasting in Numpy Arrays
+
+6. Perform following operations using pandas
+• Creating dataframe
+• concat()
+• Setting conditions
+• Adding a new column
+
+7. Perform following operations using pandas
+• Filling NaN with string
+• Sorting based on column values
+• groupby()
+
+8. Read the following file formats using pandas
+• Text files
+• CSV files
+• Excel files
+• JSON files
+
+9. Read the following file formats
+• Pickle files
+• Image files using PIL
+• Multiple files using Glob
+• Importing data from database
+
+10. Demonstrate web scraping using python
+
+11. Perform following preprocessing techniques on loan prediction dataset
+• Feature Scaling
+• Feature Standardization
+• Label Encoding
+• One Hot Encoding
+
+12. Perform following visualizations using matplotlib
+• Bar Graph
+• Pie Chart
+• Box Plot
+• Histogram
+• Line Chart and Subplots
+• Scatter Plot
