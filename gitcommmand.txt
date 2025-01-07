@@ -6,3 +6,19 @@ git remote add origin https://github.com/phani-rec/rec2.2.git
 git push -u origin main
 
 
+
+..................................
+numpy installation steps 
+
+url : https://www.youtube.com/watch?v=K87M0sMVXZE
+...............
+step 1 : 
+>py -m pip --version
+
+step 2 :
+>python.exe -m pip install --upgrade pip
+
+step 3 :
+>py -m pip install numpy
+
+
