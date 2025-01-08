@@ -19,6 +19,9 @@ step 2 :
 >python.exe -m pip install --upgrade pip
 
 step 3 :
->py -m pip install numpy
+>py -m pip install --upgrade pip
 
+
+step 4:
+>py -m pip install pandas
 
