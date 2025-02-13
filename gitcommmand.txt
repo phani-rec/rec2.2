@@ -5,6 +5,11 @@ git branch -M main
 git remote add origin https://github.com/phani-rec/rec2.2.git
 git push -u origin main
 
+to take the code from github to local system 
+...................
+step1 : mkdir rec2.2
+step2 : git init
+step3 : git pull origin main
 
 
 ..................................
