@@ -1,0 +1,18 @@
+import pandas as pd
+df = pd.read_excel('C:\\Users\\REC\\Desktop\\trail.xlsx')
+print(df)
+print(list(df.columns))
+print(list(df.columns.values))
+print(df['Name'])
+print(df.head())
+print(df['Name'].head())
+print(df.head(2))
+print(df['Name'].head(2))
+print(df.tail())
+print(df['Name'].tail())
+print(df.tail(2))
+print(df['Name'].tail(2))
+print('df.describe()......\n',df.describe())
+print('df[Name].describe()...\n',df['Name'].describe())
+print('shape .....\n',df.shape)
+# pip install openpyxl
