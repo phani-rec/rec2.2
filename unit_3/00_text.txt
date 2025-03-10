@@ -1,0 +1,6 @@
+Hello, World!
+This is a simple text file.
+It contains multiple lines of text.
+Each line can be read separately.
+Python is great for reading and writing files.
+Enjoy learning Python!

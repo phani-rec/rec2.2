@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <age>30</age>
+        <city>New York</city>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <age>25</age>
+        <city>Los Angeles</city>
+    </employee>
+    <employee>
+        <name>Emily Davis</name>
+        <age>35</age>
+        <city>Chicago</city>
+    </employee>
+</employees>
